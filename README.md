@@ -14,7 +14,7 @@ Project is created with:
 * Java 11
 * Spring Boot 2.3.0
 * Maven
-* Ajax
+* Ajax  
 IDE: Intellij IDEA 2018
 
 ## Sources
