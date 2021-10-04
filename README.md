@@ -1,4 +1,4 @@
-<h1 align="right">Work In Progress: Conference Registration</h1><br>
+<h1 align="right">Conference Registration</h1><br>
 
 ## Table of contents
 * [General info](#general-info)
